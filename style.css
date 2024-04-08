@@ -60,10 +60,14 @@ align-items: center;
 }
 .b{
     font-size: 18px;
-    background-image: url(images/bg.png);
+    margin: 50px;
     height: 100%;
 }
+.o{
+    margin: 20px;
+}
 .d{
+    margin: 20px;
     text-align: center;
 }
 .d h1{
